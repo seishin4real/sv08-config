@@ -1,0 +1,8 @@
+comms/
+database/
+gcodes/
+logs/
+misc/
+systemd/
+.moonraker.uuid
+moonraker.asvc
